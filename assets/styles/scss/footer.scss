@@ -1,0 +1,22 @@
+.site-footer {
+    border-top: 10px double $background-color-main;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.site-links {
+    width: 40%;
+
+}
+
+.copy {
+    width: 20%;
+}
+
+.adress {
+    width: 40%;
+}
